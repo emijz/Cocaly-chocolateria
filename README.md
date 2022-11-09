@@ -1,2 +1,2 @@
 # Cocaly-chocolateria
-Diseño graficoCocaly chocolateria
+Diseño grafico Cocaly chocolateria
